@@ -26,6 +26,21 @@
     color: rgba(0, 165, 255, 0.6);
 }
 
-#images {
-    display: inline;
+.image-one{
+    display: block;
+    height: 420px;
+    width: 543px;
+    background-repeat: no-repeat;
+}
+
+.image-one, .image-two {
+    float: left;
+}
+
+.image-two {
+    margin: 10px;
+}
+
+#lorem {
+    clear: left
 }
