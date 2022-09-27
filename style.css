@@ -45,6 +45,10 @@ header {
     background-color: yellow;
 }
 
+table {
+    text-align: left;
+}
+
 .front {
     background-color: rgb(60, 118, 243);
 }
